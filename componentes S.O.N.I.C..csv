@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"R1, R4",2," Fotorresistor"
+"R2, R3",2,"1 kΩ Resistor"
+"U2",1," Acionador de motor de ponte H"
+"M1, M2",2," Motor de engrenagem de uso não profissional"
+"P1",1,"6 , 5  Fonte de energia"
